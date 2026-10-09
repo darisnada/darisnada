@@ -8,7 +8,7 @@ A passionate Full-Stack / Backend Developer focused on building scalable web app
 - **Backend (JavaScript):** Node.js, Express (or your preferred framework)
 - **Databases & ORMs:** PostgreSQL, MySQL, Eloquent
 - **DevOps & Tools:** Docker, Git
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <table>
   <tr>
     <td align="center" width="96">
