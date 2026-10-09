@@ -8,45 +8,10 @@ A passionate Full-Stack / Backend Developer focused on building scalable web app
 - **Backend (JavaScript):** Node.js, Express (or your preferred framework)
 - **Databases & ORMs:** PostgreSQL, MySQL, Eloquent
 - **DevOps & Tools:** Docker, Git
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="PHP" />
-      <br />PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Laravel" />
-      <br />Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="CodeIgniter" />
-      <br />CodeIgniter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="PostgreSQL" />
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Docker" />
-      <br />Docker
-    </td>
-  </tr>
-</table>
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,laravel,codeigniter,reactjs)](https://skillicons.dev)
+
 
 ### 📈 Current Focus
 - 🔭 I’m currently working on [Mention your current project or "personal backend systems"]
