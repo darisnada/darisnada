@@ -15,4 +15,4 @@ A passionate Full-Stack / Backend Developer focused on building scalable web app
 - 💬 Ask me about building RESTful APIs with Laravel or managing relational databases
 
 ### 📬 Connect with me
-[![Instagram]](https://instagram.com/darisnada_) | [Email](mailto:darisn35@gmail.com)
+[Instagram](https://instagram.com/darisnada_) | [Email](mailto:darisn35@gmail.com)
