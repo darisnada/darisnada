@@ -10,7 +10,7 @@ A passionate Full-Stack / Backend Developer focused on building scalable web app
 - **DevOps & Tools:** Docker, Git
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,laravel,codeigniter,reactjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,laravel,codeigniter,react)](https://skillicons.dev)
 
 
 ### 📈 Current Focus
